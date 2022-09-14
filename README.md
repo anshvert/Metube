@@ -1,1 +1,2 @@
-# Metube is an online Video Streaming Application
+# Metube
+## An Online Video Streaming PLatform 
